@@ -40,5 +40,4 @@ int main() {
     std::cout << i+1 << "° : fichero con el id " << ficheros[i].id << " y longitud " << ficheros[i].longitud << '\n';
   }
   std::cout << "\nEl D minimizado es: " << D;
-
 }
